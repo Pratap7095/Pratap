@@ -13,7 +13,7 @@ public class Locator_1 extends BaseClass{
 
 	public Locator_1() throws IOException {
 		super();
-		System.out.println("sashdgajdjahd");
+		System.out.println("prathap");
 	}
 	
 	static By Register =By.xpath("//*[@id=\"section\"]/div/h2");
